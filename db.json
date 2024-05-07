@@ -1,0 +1,84 @@
+{
+  "material": [
+    {
+      "id": "4b1c",
+      "name": "v8 cc",
+      "quantity": "023",
+      "used": "02",
+      "remaining": 21,
+      "usedFor": "Best",
+      "entryDate": "06-05-2024"
+    },
+    {
+      "id": "9bc6",
+      "name": "Display222",
+      "quantity": "300",
+      "used": "30",
+      "remaining": 270,
+      "usedFor": "IJMP",
+      "entryDate": "06-05-2024"
+    },
+    {
+      "id": "0625",
+      "name": "Display222",
+      "quantity": "200",
+      "used": "20",
+      "remaining": 180,
+      "usedFor": "loremncsdn",
+      "entryDate": "07-05-2024"
+    },
+    {
+      "id": "ce5a",
+      "name": "v8 cc",
+      "quantity": "200",
+      "used": "20",
+      "remaining": 180,
+      "usedFor": "IMp",
+      "entryDate": "05-05-2024"
+    }
+  ],
+  "user": [
+    {
+      "id": "adminuser",
+      "name": "Nihira",
+      "password": "admin",
+      "email": "nihiratechiees@gmail.com",
+      "phone": "8989898989",
+      "country": "usa",
+      "address": "",
+      "role": "admin",
+      "gender": "female"
+    },
+    {
+      "id": "ntuser",
+      "name": "Fullname",
+      "password": "ntuser",
+      "email": "email@email.com",
+      "phone": "56778889989",
+      "country": "singapore",
+      "address": "address1\naddrees2",
+      "role": "user",
+      "gender": "male"
+    },
+    {
+      "id": "Gaurav",
+      "name": "Gaurav Nandedkar",
+      "password": "123",
+      "email": "nandedkargaurav123@gmail.com",
+      "phone": "1234567890",
+      "country": "india",
+      "address": "",
+      "gender": "male"
+    },
+    {
+      "id": "Ganesh4268",
+      "name": "Ganesh Vaidya",
+      "password": "Ganesh@77",
+      "email": "ganesh4268@gmail.com",
+      "phone": "8080373815",
+      "country": "india",
+      "address": "Nigdi",
+      "gender": "male"
+    }
+  ]
+}
